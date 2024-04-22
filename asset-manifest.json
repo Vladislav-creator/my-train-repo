@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-train-repo/static/css/main.59dfd9eb.css",
+    "main.js": "/my-train-repo/static/js/main.dbdd96c5.js",
+    "static/js/765.7b114ea8.chunk.js": "/my-train-repo/static/js/765.7b114ea8.chunk.js",
+    "static/js/430.cc685adf.chunk.js": "/my-train-repo/static/js/430.cc685adf.chunk.js",
+    "static/js/775.1485c75d.chunk.js": "/my-train-repo/static/js/775.1485c75d.chunk.js",
+    "index.html": "/my-train-repo/index.html",
+    "main.59dfd9eb.css.map": "/my-train-repo/static/css/main.59dfd9eb.css.map",
+    "main.dbdd96c5.js.map": "/my-train-repo/static/js/main.dbdd96c5.js.map",
+    "765.7b114ea8.chunk.js.map": "/my-train-repo/static/js/765.7b114ea8.chunk.js.map",
+    "430.cc685adf.chunk.js.map": "/my-train-repo/static/js/430.cc685adf.chunk.js.map",
+    "775.1485c75d.chunk.js.map": "/my-train-repo/static/js/775.1485c75d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59dfd9eb.css",
+    "static/js/main.dbdd96c5.js"
+  ]
+}
