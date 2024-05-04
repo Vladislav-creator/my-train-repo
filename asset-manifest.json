@@ -1,19 +1,30 @@
 {
   "files": {
-    "main.css": "/my-train-repo/static/css/main.59dfd9eb.css",
-    "main.js": "/my-train-repo/static/js/main.dbdd96c5.js",
-    "static/js/765.7b114ea8.chunk.js": "/my-train-repo/static/js/765.7b114ea8.chunk.js",
-    "static/js/430.cc685adf.chunk.js": "/my-train-repo/static/js/430.cc685adf.chunk.js",
-    "static/js/775.1485c75d.chunk.js": "/my-train-repo/static/js/775.1485c75d.chunk.js",
+    "main.css": "/my-train-repo/static/css/main.e36c93c4.css",
+    "main.js": "/my-train-repo/static/js/main.4e7dd406.js",
+    "static/css/510.cdb0fce3.chunk.css": "/my-train-repo/static/css/510.cdb0fce3.chunk.css",
+    "static/js/510.2189f874.chunk.js": "/my-train-repo/static/js/510.2189f874.chunk.js",
+    "static/js/430.c3dda614.chunk.js": "/my-train-repo/static/js/430.c3dda614.chunk.js",
+    "static/css/633.d9e7040a.chunk.css": "/my-train-repo/static/css/633.d9e7040a.chunk.css",
+    "static/js/633.2d60072e.chunk.js": "/my-train-repo/static/js/633.2d60072e.chunk.js",
+    "static/js/669.0a1f13e2.chunk.js": "/my-train-repo/static/js/669.0a1f13e2.chunk.js",
+    "static/js/139.f0ec4b58.chunk.js": "/my-train-repo/static/js/139.f0ec4b58.chunk.js",
+    "static/js/948.17cfe7e5.chunk.js": "/my-train-repo/static/js/948.17cfe7e5.chunk.js",
+    "static/media/mersedesA.jpg": "/my-train-repo/static/media/mersedesA.d424581040ef984456d9.jpg",
     "index.html": "/my-train-repo/index.html",
-    "main.59dfd9eb.css.map": "/my-train-repo/static/css/main.59dfd9eb.css.map",
-    "main.dbdd96c5.js.map": "/my-train-repo/static/js/main.dbdd96c5.js.map",
-    "765.7b114ea8.chunk.js.map": "/my-train-repo/static/js/765.7b114ea8.chunk.js.map",
-    "430.cc685adf.chunk.js.map": "/my-train-repo/static/js/430.cc685adf.chunk.js.map",
-    "775.1485c75d.chunk.js.map": "/my-train-repo/static/js/775.1485c75d.chunk.js.map"
+    "main.e36c93c4.css.map": "/my-train-repo/static/css/main.e36c93c4.css.map",
+    "main.4e7dd406.js.map": "/my-train-repo/static/js/main.4e7dd406.js.map",
+    "510.cdb0fce3.chunk.css.map": "/my-train-repo/static/css/510.cdb0fce3.chunk.css.map",
+    "510.2189f874.chunk.js.map": "/my-train-repo/static/js/510.2189f874.chunk.js.map",
+    "430.c3dda614.chunk.js.map": "/my-train-repo/static/js/430.c3dda614.chunk.js.map",
+    "633.d9e7040a.chunk.css.map": "/my-train-repo/static/css/633.d9e7040a.chunk.css.map",
+    "633.2d60072e.chunk.js.map": "/my-train-repo/static/js/633.2d60072e.chunk.js.map",
+    "669.0a1f13e2.chunk.js.map": "/my-train-repo/static/js/669.0a1f13e2.chunk.js.map",
+    "139.f0ec4b58.chunk.js.map": "/my-train-repo/static/js/139.f0ec4b58.chunk.js.map",
+    "948.17cfe7e5.chunk.js.map": "/my-train-repo/static/js/948.17cfe7e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59dfd9eb.css",
-    "static/js/main.dbdd96c5.js"
+    "static/css/main.e36c93c4.css",
+    "static/js/main.4e7dd406.js"
   ]
 }

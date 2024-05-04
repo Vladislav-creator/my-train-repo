@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_train_repo=self.webpackChunkmy_train_repo||[]).push([[430],{430:function(e,n,r){r.r(n);var t=r(184);n.default=function(){return(0,t.jsx)("div",{className:"container",children:(0,t.jsx)("h1",{children:"About"})})}}}]);
-//# sourceMappingURL=430.cc685adf.chunk.js.map
