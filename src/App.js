@@ -2,10 +2,10 @@
 import React, { lazy, Suspense } from 'react';
 import {  Route, Routes, Navigate } from 'react-router-dom';
 import Header from './components/Header/Header.jsx';
-
-const Home = lazy(() => import('./Pages/Home/Home'));
-const About = lazy(() => import('./Pages/About/About'));
-const Contact = lazy(() => import('./Pages/Contacts/Contacts'));
+import {Loader} from './components/Loader/Loader.jsx'
+const Home = lazy(() => import('./Pages/Home/Home.jsx'));
+const About = lazy(() => import('./Pages/About/About.jsx'));
+const Contact = lazy(() => import('./Pages/Contacts/Contacts.jsx'));
  
 const App = () => {
   return (
@@ -13,7 +13,7 @@ const App = () => {
     <div>
       <Header/>
       <main>
-        <Suspense fallback={<div>Loading...</div>}>
+        <Suspense fallback={<Loader/>}>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />

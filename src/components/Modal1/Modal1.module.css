@@ -1,0 +1,76 @@
+.hystModal {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    overflow: hidden;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    z-index: 1000;
+    padding: 30px 0;
+    display: none;
+    background-color: rgba(128, 0, 128, 0.5);
+  }
+  
+.hystModal.open {
+    display: flex; /* Show modal when open state is true */
+  }
+  .hystmodalWrap {
+    flex-shrink: 0;
+    flex-grow: 0;
+    width: 100%;
+    min-height: 100%;
+    margin: auto;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .hystmodalWindow {
+    margin: 50px 0;
+    flex-shrink: 0;
+    flex-grow: 0;
+    background: #fff;
+    /* width: 900px; */
+    padding: 40px;
+    max-width: 200vh;
+    overflow: visible;
+    transition: transform 0.2s ease 0s, opacity 0.2s ease 0s;
+    transform: scale(0.9);
+    position: relative;
+    border-radius: 10px;
+  }
+  
+  .hystmodalClose {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: transparent; /* Прозрачный фон */
+    border: 2px solid #ccc; /* Серый цвет ободка */
+    border-radius: 50%; /* Сделать кнопку круглой */
+    color: #ccc; /* Серый цвет текста и символа крестика */
+    cursor: pointer;
+    font-size: 20px; /* Размер символа крестика */
+    padding: 0; /* Убрать отступы вокруг текста */
+    width: 30px; /* Ширина кнопки */
+    height: 30px; /* Высота кнопки */
+    display: flex; /* Сделать содержимое центрированным */
+    justify-content: center; /* Горизонтальное центрирование содержимого */
+    align-items: center; /* Вертикальное центрирование содержимого */
+    transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease; /* Плавное изменение цвета при наведении */
+}
+.hystmodalClose::after {
+    content: '✖'; 
+  }
+  .reactModalCloseButton:hover,
+  .reactModalCloseButton:focus {
+  background-color: #f0f0f0; /* Изменение цвета фона при наведении */
+  border-color: #999; /* Изменение цвета ободка при наведении */
+  color: #999; /* Изменение цвета текста и символа крестика при наведении */
+}
